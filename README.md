@@ -1,7 +1,7 @@
 ## Powered By CodeEase 🚀
 
 [![NPM Version](https://img.shields.io/npm/v/mern-launcher.svg)](https://www.npmjs.com/package/mern-launcher)
-[![License](https://img.shields.io/npm/l/mern-launcher.svg)](https://github.com/yourusername/mern-launcher/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/mern-launcher.svg)](https://github.com/Hrithik450/mern-launcher/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/npm/dm/mern-launcher.svg)](https://www.npmjs.com/package/mern-launcher)
 
 ---
@@ -9,7 +9,7 @@
 ### ⬇️ Installation
 
 ```sh
-npx mern-launcher@2.0.15
+npx mern-launcher@2.0.16
 ```
 
 ### 🚀 Introduction
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx mern-launcher@2.0.15
+npx mern-launcher@2.0.16
 ```
 
 You will be prompted with:
@@ -86,32 +86,32 @@ JavaScript
 
 ```sh
 frontend/
-│── public/ # Static assets (favicon, manifest, images)
+│── public/
 │── src/
-│ ├── assets/ # Images, fonts, etc.
-│ ├── components/ # Reusable components
-│ │ ├── common/ # UI components (Button, Input, Loader)
-│ │ ├── layout/ # Layout components (Navbar, Sidebar)
-│ │ ├── home/ # Home-related components (ProductCard)
-│ ├── features/ # Redux slices (Redux Toolkit)
-│ │ ├── authSlice.jsx # Authentication slice
-│ ├── hooks/ # Custom hooks
-│ ├── pages/ # Page components
-│ │ ├── Home.jsx # Home page
-│ ├── routes/ # Routing files
+│ ├── assets/
+│ ├── components/
+│ │ ├── common/
+│ │ ├── layout/
+│ │ ├── home/
+│ ├── features/
+│ │ ├── authSlice.jsx
+│ ├── hooks/
+│ ├── pages/
+│ │ ├── Home.jsx
+│ ├── routes/
 │ │ ├── PrivateRoute.jsx
 │ │ ├── AppRoute.jsx
 │ │ ├── AdminRoute.jsx
 │ │ ├── index.jsx
-│ ├── store/ # Redux store configuration
-│ ├── utils/ # Helper functions
-│ ├── App.jsx # Main app component
-│ ├── main.jsx # Entry point
-│ ├── App.css # Stylesheet
-│ ├── index.css # Stylesheet
-│── .env # Environment variables
-│── package.json # Dependencies
-│── README.md # Project info
+│ ├── store/
+│ ├── utils/
+│ ├── App.jsx
+│ ├── main.jsx
+│ ├── App.css
+│ ├── index.css
+│── .env
+│── package.json
+│── README.md
 ```
 
 ### **Backend Folder Structure**
@@ -119,25 +119,25 @@ frontend/
 ```sh
 backend/
 │── src/
-│ ├── config/ # Configuration files (DB, secrets, etc.)
-│ │ ├── db.js # MongoDB connection
-│ │ ├── config.env # Secret keys
-│ ├── controllers/ # Route handlers
+│ ├── config/
+│ │ ├── db.js
+│ │ ├── config.env
+│ ├── controllers/
 │ │ ├── authController.js
-│ ├── middlewares/ # Custom middlewares
+│ ├── middlewares/
 │ │ ├── authMiddleware.js
 │ │ ├── errorHandler.js
-│ ├── models/ # Mongoose models
+│ ├── models/
 │ │ ├── User.js
-│ ├── routes/ # API routes
+│ ├── routes/
 │ │ ├── authRoutes.js
-│ ├── utils/ # Utility functions
+│ ├── utils/
 │ │ ├── generateToken.js
 │ │ ├── catchAsync.js
-│ ├── index.js # Server entry point
-│── .env # Environment variables
-│── package.json # Dependencies
-│── README.md # Project info
+│ ├── index.js
+│── .env
+│── package.json
+│── README.md
 ```
 
 ---
