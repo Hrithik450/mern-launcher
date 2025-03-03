@@ -1,6 +1,6 @@
 {
   "name": "mern-launcher",
-  "version": "2.0.16",
+  "version": "2.0.17",
   "description": "A CLI tool to quickly set up a MERN project",
   "type": "module",
   "bin": {
