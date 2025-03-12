@@ -9,7 +9,7 @@
 ### ⬇️ Installation
 
 ```sh
-npx mern-launcher@2.0.18
+npx mern-launcher@2.0.19
 ```
 
 ### 🚀 Introduction
@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx mern-launcher@2.0.18
+npx mern-launcher@2.0.19
 ```
 
 You will be prompted with:
