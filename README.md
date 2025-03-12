@@ -1,15 +1,11 @@
-## Powered By CodeEase 🚀
-
-[![NPM Version](https://img.shields.io/npm/v/mern-launcher.svg)](https://www.npmjs.com/package/mern-launcher)
-[![License](https://img.shields.io/npm/l/mern-launcher.svg)](https://github.com/Hrithik450/mern-launcher/blob/main/LICENSE)
-[![Downloads](https://img.shields.io/npm/dm/mern-launcher.svg)](https://www.npmjs.com/package/mern-launcher)
+## Powered By CodeEaseX 🚀
 
 ---
 
 ### ⬇️ Installation
 
 ```sh
-npx mern-launcher@2.0.19
+npx https://github.com/Hrithik450/mern-launcher
 ```
 
 ### 🚀 Introduction
@@ -39,7 +35,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx mern-launcher@2.0.19
+npx https://github.com/Hrithik450/mern-launcher
 ```
 
 You will be prompted with:
