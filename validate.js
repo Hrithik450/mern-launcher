@@ -4,6 +4,7 @@ import fs from "fs";
 import { fileURLToPath } from "url";
 import path from "path";
 import os from "os";
+import { spawn } from "child_process";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
