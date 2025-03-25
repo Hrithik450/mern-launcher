@@ -5,7 +5,7 @@
 ### ⬇️ Installation
 
 ```sh
-npx https://github.com/Hrithik450/mern-launcher
+npm i mern-quickstart@1.0.1
 ```
 
 ### 🚀 Introduction
@@ -35,7 +35,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx https://github.com/Hrithik450/mern-launcher
+npm i mern-quickstart@1.0.1
 ```
 
 You will be prompted with:
