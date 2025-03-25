@@ -23,7 +23,6 @@ function cleanup() {
         force: true,
       });
     }
-    console.log("✅ Successfully completed!");
   } catch (err) {
     console.error("❌ Cleanup failed:", err.message);
   }
