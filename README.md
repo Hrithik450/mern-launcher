@@ -2,10 +2,16 @@
 
 ---
 
+[![NPM Version](https://img.shields.io/npm/v/mern-quickstart.svg)](https://www.npmjs.com/package/mern-quickstart)
+[![License](https://img.shields.io/npm/l/mern-quickstart.svg)](https://github.com/Hrithik450/mern-launcher/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/npm/dm/mern-quickstart.svg)](https://www.npmjs.com/package/mern-quickstart)
+
+---
+
 ### ⬇️ Installation
 
 ```sh
-npm i mern-quickstart@1.0.4
+npm i mern-quickstart@1.0.5
 ```
 
 ### 🚀 Introduction
@@ -35,7 +41,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npm i mern-quickstart@1.0.4
+npm i mern-quickstart@1.0.5
 ```
 
 You will be prompted with:
