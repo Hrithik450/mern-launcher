@@ -55,6 +55,13 @@ async function downloadAndExtract(apiKey) {
 }
 
 async function executeSetupScript() {
+  console.log(`
+        ======================================
+        🚀 Welcome to the MERN Starter Kit! 
+        Follow the prompts to configure your project.
+        ======================================
+        `);
+
   const platform = os.platform();
   const scriptPath =
     platform === "win32"
