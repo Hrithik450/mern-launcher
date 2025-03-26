@@ -49,7 +49,7 @@ async function downloadAndExtract(apiKey) {
     const zip = new AdmZip(zipPath);
     zip.extractAllTo(setupDir, true);
   } catch (error) {
-    console.log(error.response.data.message);
+    console.log(error);
     process.exit(1);
   }
 }
@@ -102,6 +102,7 @@ export async function installProject(apiKey) {
     await executeSetupScript();
     console.log("Project installation complete!");
   } catch (error) {
+    console.log(error);
     console.error("Project installation failed:", error.response.data.message);
     process.exit(1);
   } finally {
