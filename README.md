@@ -11,7 +11,7 @@
 ### ⬇️ Installation
 
 ```sh
-npx mern-quickstart@1.0.16
+npx mern-quickstart@1.0.17
 ```
 
 ### 🚀 Introduction
@@ -41,7 +41,7 @@ This project is licensed under the MIT License.
 To create a new project, run:
 
 ```sh
-npx mern-quickstart@1.0.16
+npx mern-quickstart@1.0.17
 ```
 
 You will be prompted with:
