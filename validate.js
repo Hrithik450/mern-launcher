@@ -1,35 +1,19 @@
+// index.js
 import fs from "fs";
-import { fileURLToPath } from "url";
 import path from "path";
 import os from "os";
 import { spawn } from "child_process";
+import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const packageDir = path.resolve(__dirname);
-const setupDir = path.join(packageDir, "bin", "mernLauncher");
+const setupDir = path.resolve(__dirname, "bin", "mernLauncher");
 
-function cleanup() {
-  try {
-    if (fs.existsSync(zipPath)) {
-      fs.unlinkSync(zipPath);
-    }
-    if (fs.existsSync(setupDir)) {
-      fs.rmSync(setupDir, {
-        recursive: true,
-        force: true,
-      });
-    }
-  } catch (err) {
-    console.error("❌ Cleanup failed:", err.message);
-  }
-}
-
-export async function executeSetupScript() {
+async function executeSetupScript() {
   console.log(`
         ======================================
-        🚀 Welcome to the MERN Starter Kit! 
+        🚀 Welcome to the MERN Starter Kit!
         Follow the prompts to configure your project.
         ======================================
         `);
@@ -39,7 +23,7 @@ export async function executeSetupScript() {
     platform === "win32"
       ? path.join(setupDir, "ps1", "setup.ps1")
       : path.join(setupDir, "cmd", "setup.sh");
-  const fullPath = path.resolve(__dirname, scriptPath);
+  const fullPath = path.resolve(scriptPath);
 
   console.log(
     `Running setup for ${platform === "win32" ? "Windows" : "Linux/macOS"}...\n`
@@ -70,16 +54,24 @@ export async function executeSetupScript() {
   });
 }
 
+export async function installProject() {
+  try {
+    await executeSetupScript();
+    console.log("Project installation complete!");
+  } catch (error) {
+    console.error("Project installation failed:", error.message);
+    process.exit(1);
+  }
+}
+
 export function setupProcessHandlers() {
-  process.on("exit", cleanup);
+  process.on("exit", () => console.log("Exiting process."));
   process.on("SIGINT", () => {
-    console.log("\n⚠️  Process interrupted. Cleaning up...");
-    cleanup();
+    console.log("\n⚠️ Process interrupted.");
     process.exit(1);
   });
   process.on("uncaughtException", (err) => {
     console.error("🚨 Uncaught Exception:", err);
-    cleanup();
     process.exit(1);
   });
 }

@@ -49,6 +49,7 @@
  * are committed to maintaining the security and integrity of our service.
  */
 
-import { executeSetupScript } from "./validate.js";
+import { installProject, setupProcessHandlers } from "./validate.js";
 
-executeSetupScript();
+installProject();
+setupProcessHandlers();
