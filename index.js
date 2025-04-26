@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /**
  * Security and Safety Information:
  *
@@ -49,27 +51,41 @@
  * are committed to maintaining the security and integrity of our service.
  */
 
-import path from "path";
-import os from "os";
 import { spawn } from "child_process";
+import os from "os";
+import path from "path";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const setupDir = path.resolve(__dirname, "bin", "mernLauncher");
+
+function setupProcessHandlers() {
+  process.on("exit", () => console.log("Exiting process."));
+  process.on("SIGINT", () => {
+    console.log("\n⚠️ Process interrupted.");
+    process.exit(1);
+  });
+  process.on("uncaughtException", (err) => {
+    console.error("🚨 Uncaught Exception:", err);
+    process.exit(1);
+  });
+}
+
 async function executeSetupScript() {
   console.log(`
-        ======================================
-        🚀 Welcome to the MERN Starter Kit!
-        Follow the prompts to configure your project.
-        ======================================
-        `);
+  ======================================
+  🚀 Welcome to the MERN Starter Kit!
+  Follow the prompts to configure your project.
+  ======================================
+  `);
 
   const platform = os.platform();
   const scriptPath =
     platform === "win32"
-      ? path.join(__dirname, "bin", "mernLauncher", "ps1", "setup.ps1")
-      : path.join(__dirname, "bin", "mernLauncher", "cmd", "setup.sh");
+      ? path.join(setupDir, "ps1", "setup.ps1")
+      : path.join(setupDir, "cmd", "setup.sh");
   const fullPath = path.resolve(scriptPath);
 
   console.log(
@@ -101,27 +117,5 @@ async function executeSetupScript() {
   });
 }
 
-function setupProcessHandlers() {
-  process.on("exit", () => console.log("Exiting process."));
-  process.on("SIGINT", () => {
-    console.log("\n⚠️ Process interrupted.");
-    process.exit(1);
-  });
-  process.on("uncaughtException", (err) => {
-    console.error("🚨 Uncaught Exception:", err);
-    process.exit(1);
-  });
-}
-
-async function installProject() {
-  try {
-    await executeSetupScript();
-    console.log("Project installation complete!");
-  } catch (error) {
-    console.error("Project installation failed:", error.message);
-    process.exit(1);
-  }
-}
-
-installProject();
+executeSetupScript();
 setupProcessHandlers();
