@@ -1,6 +1,6 @@
 {
   "name": "mern-quickstart",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "type": "module",
   "description": "A CLI tool to quickly set up a MERN project",
   "main": "index.js",
